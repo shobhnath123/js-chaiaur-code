@@ -36,6 +36,7 @@ const addTwo = ( num1, num2)=>(num1 + num2)
 
 console.log(addTwo(2, 4))
 
-// const myArray = [2, 5, 3, 7,8]
+const myArray = [2, 5, 3, 7,8]
 
+// myArray.forEach()
 // const myArray 
